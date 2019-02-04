@@ -1,3 +1,5 @@
+Google form link: https://docs.google.com/forms/d/e/1FAIpQLSd3D0BvnhgLRbtK2LOC-aAAkvZt484RCpwY0lpFdsFljEy9ig/viewform?usp=sf_link
+
 # Mentored Sprint at PyCon US: Project Sign Up
 
 Please fill in this form if you manage an open source project, and can commit to provide four hours 
