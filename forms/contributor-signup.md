@@ -36,5 +36,5 @@ For more information, please check: https://us.pycon.org/2019/hatchery/mentoreds
 
 10. Do you have your own laptop for the sprint, or will you require a loaner?
 
-11. Additional notes or comments to sprint organizer?
+11. Additional notes or comments to sprint organizers?
 
