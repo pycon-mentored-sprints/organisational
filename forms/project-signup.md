@@ -2,8 +2,8 @@ Google form link: https://docs.google.com/forms/d/e/1FAIpQLSd3D0BvnhgLRbtK2LOC-a
 
 # Mentored Sprint at PyCon US: Project Sign Up
 
-Please fill in this form if you manage an open source project, and can commit to provide four hours 
-of mentorship to a diverse group of contributors during the sprint.
+Please fill in this form if you manage an open source project, and can commit to providing two 
+or four hours of mentorship to a diverse group of contributors during the sprint.
 
 If there are multiple mentors of the same project, only one sign up form is needed.
 
@@ -16,6 +16,8 @@ For more information, please check: https://us.pycon.org/2019/hatchery/mentoreds
 3. Project/organization name (required)
 
 4. Mentor names and email addresses (required)
+   
+   Enter one mentor and email address per line. Press Enter for a new line.
 
 5. Availability during the sprint (required)
 
@@ -53,6 +55,9 @@ For more information, please check: https://us.pycon.org/2019/hatchery/mentoreds
    [ ] Yes
    
    [ ] No
+
+
+13. Do you have any accessibility needs we should know about?
    
-13. Additional notes or comments to sprint organizer?
+14. Additional notes or comments to sprint organizer?
 
