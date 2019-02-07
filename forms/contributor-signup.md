@@ -1,4 +1,4 @@
-Google form link: to be created
+Google form link: https://docs.google.com/forms/d/e/1FAIpQLSfmUDvXXHRgkBpYcHpy6O3txHEeLihz6g7hlXHThlLJMJ2zig/viewform?usp=sf_link
 
 # Mentored Sprint at PyCon US: Contributor Sign Up
 
@@ -10,9 +10,9 @@ For more information, please check: https://us.pycon.org/2019/hatchery/mentoreds
 
 2. Your name (required)
 
-3. Are you a member of underrepresented group?
+3. Used pronouns:
 
-4. Preferred open source projects to contribute to (should this be required?)
+4. Have you got some projects in mind you would like to contribute to?
 
 5. Topic Interest areas:
    
@@ -34,7 +34,29 @@ For more information, please check: https://us.pycon.org/2019/hatchery/mentoreds
 
    Any skill level is welcome! We plan to have a git helpdesk.
 
-10. Do you have your own laptop for the sprint, or will you require a loaner?
+10. Will you be able to bring your own laptop to the sprint? If not, there is a small chance that we will have extra computers available for your use.
 
-11. Additional notes or comments to sprint organizers?
+11. Do you have any accessibility needs we should know about?
+
+12. Do you consider yourself a member of an underrepresented group?
+
+    [ ] Yes
+    
+    [ ] No
+    
+    [ ] Prefer not to say
+    
+13. (if they say yes, in 12) If you're a member of an underrepresented group, please elaborate
+
+14. What Operating System do you normally use/are comfortable with?
+
+    [ ] Windows
+   
+    [ ] Linux
+
+    [ ] Mac OSX
+
+    [ ] Other ...
+    
+15. Additional notes or comments to sprint organizers?
 
