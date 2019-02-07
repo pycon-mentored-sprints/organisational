@@ -33,7 +33,19 @@ For more information, please check: https://us.pycon.org/2019/hatchery/mentoreds
 
 9. Project areas
    
-   E.g: web, data science, machine learning, frontend, etc
+   [ ] Web Development
+   
+   [ ] Scientific and numeric
+   
+   [ ] Education
+   
+   [ ] Security
+   
+   [ ] Devops
+   
+   [ ] Tooling
+   
+   [ ] Other ...
 
 10. Types of contributions available to your project
  
