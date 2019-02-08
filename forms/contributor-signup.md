@@ -16,11 +16,29 @@ For more information, please check: https://us.pycon.org/2019/hatchery/mentoreds
 
 5. Topic Interest areas:
    
-   E.g: web, data science, machine learning, frontend, etc
+   [ ] Web Development
+
+   [ ] Scientific and numeric
+
+   [ ] Education
+
+   [ ] Security
+
+   [ ] Devops
+
+   [ ] Tooling
+
+   [ ] Other ...
 
 6. What kind of contribution are you interested in doing?
    
-   E.g: code (which language), documentation, UI design, etc.
+   [ ] Code (Python, C, etc)
+
+   [ ] Documentation
+
+   [ ] UI design
+
+   [ ] Other ...
 
 7. Availability during the sprint (required)
 
