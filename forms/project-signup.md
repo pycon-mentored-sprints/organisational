@@ -9,6 +9,23 @@ If there are multiple mentors of the same project, only one sign up form is need
 
 For more information, please check: https://us.pycon.org/2019/hatchery/mentoredsprints/
 
+By submitting this form,you agree to follow PyCon's Code of Conduct at
+https://us.pycon.org/2019/about/code-of-conduct/. It applies to all
+participants, but you especially serve as representatives of PyCon to
+the mentees in the sprint. If this is a problem, let us know now. 
+RemembeBy submitting this form,you agree to follow PyCon's Code of Conduct at
+https://us.pycon.org/2019/about/code-of-conduct/. It applies to all
+participants, but you especially serve as representatives of PyCon to
+the mentees in the sprint. If this is a problem, let us know now. 
+Remember that respect of others when you're teaching technical
+material includes respect for other technologies (platforms,
+languages, frameworks, etc.).
+r that respect of others when you're teaching technical
+material includes respect for other technologies (platforms,
+languages, frameworks, etc.).
+
+
+
 1. Email address (required)
 
 2. Your name (required)
