@@ -1,6 +1,9 @@
 # Organisational
 🗂 all things related to the organisation of the PyCon mentored sprints
 
+## About the logo
+The logo used in this organisation was designed by [Ashley McNamara](https://twitter.com/ashleymcnamara) and it features Bit the Azure Advocates mascot.
+
 
 ## Upcoming meetings and meeting minutes
 
