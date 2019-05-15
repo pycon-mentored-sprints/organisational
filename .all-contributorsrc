@@ -30,6 +30,19 @@
         "eventOrganizing",
         "ideas"
       ]
+    },
+    {
+      "login": "Nikoleta-v3",
+      "name": "Nikoleta Glynatsi",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/19708408?v=4",
+      "profile": "https://github.com/Nikoleta-v3",
+      "contributions": [
+        "question",
+        "doc",
+        "content",
+        "review",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
