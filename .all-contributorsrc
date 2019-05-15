@@ -43,6 +43,20 @@
         "review",
         "ideas"
       ]
+    },
+    {
+      "login": "trallard",
+      "name": "Tania Allard",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/23552331?v=4",
+      "profile": "http://www.bitsandchips.me",
+      "contributions": [
+        "question",
+        "doc",
+        "content",
+        "eventOrganizing",
+        "ideas",
+        "projectManagement"
+      ]
     }
   ],
   "contributorsPerLine": 7,
