@@ -1,5 +1,5 @@
 # Organisational
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors)
 🗂 all things related to the organisation of the PyCon mentored sprints
 
 ## About the logo
@@ -28,7 +28,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
-<table><tr><td align="center"><a href="http://nnja.io"><img src="https://avatars1.githubusercontent.com/u/2030983?v=4" width="100px;" alt="Nina Zakharenko"/><br /><sub><b>Nina Zakharenko</b></sub></a><br /><a href="#question-nnja" title="Answering Questions">💬</a> <a href="#content-nnja" title="Content">🖋</a> <a href="#eventOrganizing-nnja" title="Event Organizing">📋</a> <a href="#ideas-nnja" title="Ideas, Planning, & Feedback">🤔</a> <a href="#tutorial-nnja" title="Tutorials">✅</a></td></tr></table>
+<table><tr><td align="center"><a href="http://nnja.io"><img src="https://avatars1.githubusercontent.com/u/2030983?v=4" width="100px;" alt="Nina Zakharenko"/><br /><sub><b>Nina Zakharenko</b></sub></a><br /><a href="#question-nnja" title="Answering Questions">💬</a> <a href="#content-nnja" title="Content">🖋</a> <a href="#eventOrganizing-nnja" title="Event Organizing">📋</a> <a href="#ideas-nnja" title="Ideas, Planning, & Feedback">🤔</a> <a href="#tutorial-nnja" title="Tutorials">✅</a></td><td align="center"><a href="https://mariatta.ca"><img src="https://avatars1.githubusercontent.com/u/5844587?v=4" width="100px;" alt="Mariatta"/><br /><sub><b>Mariatta</b></sub></a><br /><a href="#question-Mariatta" title="Answering Questions">💬</a> <a href="https://github.com/pycon-mentored-sprints/organisational/commits?author=Mariatta" title="Documentation">📖</a> <a href="#content-Mariatta" title="Content">🖋</a> <a href="#eventOrganizing-Mariatta" title="Event Organizing">📋</a> <a href="#ideas-Mariatta" title="Ideas, Planning, & Feedback">🤔</a></td></tr></table>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
