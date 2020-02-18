@@ -1,5 +1,7 @@
 # Organisational
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
+![License](https://img.shields.io/badge/License-BSD%203--Clause-gray.svg?colorA=2D2A56&colorB=7A76C2&style=flat.svg)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg?colorA=2D2A56&colorB=FF6F91&style=flat.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 🗂 all things related to the organisation of the PyCon mentored sprints
 
@@ -12,7 +14,7 @@ The minutes for the organising committee can be found in the [./minutes](./minut
 
 ## TODO's
 
-All the actions that need help or are in progress can be found at: [https://github.com/pycon-mentored-sprints/organisational/issues](https://github.com/pycon-mentored-sprints/organisational/issues).
+All the actions that need help or a re in progress can be found at: [https://github.com/pycon-mentored-sprints/organisational/issues](https://github.com/pycon-mentored-sprints/organisational/issues).
 Once you have decided to work on an issue please assign yourself to it
 
 You can also check the progress of the tasks in the repo project board: [https://github.com/pycon-mentored-sprints/organisational/projects](https://github.com/pycon-mentored-sprints/organisational/projects)
@@ -25,7 +27,7 @@ You can also check the progress of the tasks in the repo project board: [https:/
 - Valery Briz
 - Katia Lira
 
-### The following people have been involved in organising previously
+### The following people have been involved in organising previous sprints
 
 - Nikoleta Glynatsi
 - Mariatta Wijaya
@@ -43,3 +45,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+## Licensing
+
+The content of this repo is licensed under the [OSI](https://opensource.org/osd) [BSD-3](https://opensource.org/licenses/BSD-3-Clause) license for the code and the creative assets and written content under a [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license. 
