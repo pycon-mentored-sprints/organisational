@@ -1,26 +1,36 @@
 # Organisational
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors)
+
 🗂 all things related to the organisation of the PyCon mentored sprints
 
 ## About the logo
 The logo used in this organisation was designed by [Ashley McNamara](https://twitter.com/ashleymcnamara) and it features Bit the Azure Advocates mascot.
-
 
 ## Upcoming meetings and meeting minutes
 
 The minutes for the organising committee can be found in the [./minutes](./minutes) folder.
 
 ## TODO's
-Each action that needs completing should be referenced in an issue in this repository and either be assigned to one of the organisers or labeled as `up-for`grabs`
 
+All the actions that need help or are in progress can be found at: [https://github.com/pycon-mentored-sprints/organisational/issues](https://github.com/pycon-mentored-sprints/organisational/issues).
+Once you have decided to work on an issue please assign yourself to it
 
-## Organising members
+You can also check the progress of the tasks in the repo project board: [https://github.com/pycon-mentored-sprints/organisational/projects](https://github.com/pycon-mentored-sprints/organisational/projects)
+
+## Organising members 2020
+
 - Tania Allard
-- Mariatta Wijaya
 - Nina Zakharenko
-- Nikoleta Glynatsi
+- Cheuk Ting Ho
+- Valery Briz
+- Katia Lira
 
-If you need to reach out to the organisers please do it using the email [nwuk@pyladies.com](nwuk@pyladies.com)
+### The following people have been involved in organising previously
+
+- Nikoleta Glynatsi
+- Mariatta Wijaya
+
+If you need to reach out to the organisers please do it using the email tania[at]pyladies[dot]com
 
 ## Contributors
 
