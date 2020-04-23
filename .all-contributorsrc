@@ -68,6 +68,17 @@
         "eventOrganizing",
         "ideas"
       ]
+    },
+    {
+      "login": "Cheukting",
+      "name": "Cheuk Ting Ho",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/28761465?v=4",
+      "profile": "http://cheuk.dev",
+      "contributions": [
+        "question",
+        "eventOrganizing",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
