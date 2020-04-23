@@ -79,6 +79,17 @@
         "eventOrganizing",
         "ideas"
       ]
+    },
+    {
+      "login": "valerybriz",
+      "name": "Valery Briz",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/22871092?v=4",
+      "profile": "http://medium.com/@valerybriz",
+      "contributions": [
+        "question",
+        "eventOrganizing",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
