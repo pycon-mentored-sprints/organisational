@@ -26,6 +26,7 @@ You can also check the progress of the tasks in the repo project board: [https:/
 - Cheuk Ting Ho
 - Valery Briz
 - Katia Lira
+- Zac Hatfield Dodds 
 
 ### The following people have been involved in organising previous sprints
 
