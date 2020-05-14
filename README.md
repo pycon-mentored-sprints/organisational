@@ -51,6 +51,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://cheuk.dev"><img src="https://avatars1.githubusercontent.com/u/28761465?v=4" width="100px;" alt=""/><br /><sub><b>Cheuk Ting Ho</b></sub></a><br /><a href="#question-Cheukting" title="Answering Questions">💬</a> <a href="#eventOrganizing-Cheukting" title="Event Organizing">📋</a> <a href="#ideas-Cheukting" title="Ideas, Planning, & Feedback">🤔</a> <a href="#infra-Cheukting" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#platform-Cheukting" title="Packaging/porting to new platform">📦</a></td>
     <td align="center"><a href="http://medium.com/@valerybriz"><img src="https://avatars1.githubusercontent.com/u/22871092?v=4" width="100px;" alt=""/><br /><sub><b>Valery Briz</b></sub></a><br /><a href="#question-valerybriz" title="Answering Questions">💬</a> <a href="#eventOrganizing-valerybriz" title="Event Organizing">📋</a> <a href="#ideas-valerybriz" title="Ideas, Planning, & Feedback">🤔</a></td>
   </tr>
+  <tr>
+    <td align="center"><a href="http://zhd.dev"><img src="https://avatars1.githubusercontent.com/u/12229877?v=4" width="100px;" alt=""/><br /><sub><b>Zac Hatfield-Dodds</b></sub></a><br /><a href="#eventOrganizing-Zac-HD" title="Event Organizing">📋</a> <a href="#ideas-Zac-HD" title="Ideas, Planning, & Feedback">🤔</a> <a href="#question-Zac-HD" title="Answering Questions">💬</a></td>
+  </tr>
 </table>
 
 <!-- markdownlint-enable -->

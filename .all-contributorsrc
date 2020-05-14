@@ -94,6 +94,17 @@
         "eventOrganizing",
         "ideas"
       ]
+    },
+    {
+      "login": "Zac-HD",
+      "name": "Zac Hatfield-Dodds",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/12229877?v=4",
+      "profile": "http://zhd.dev",
+      "contributions": [
+        "eventOrganizing",
+        "ideas",
+        "question"
+      ]
     }
   ],
   "contributorsPerLine": 7,
