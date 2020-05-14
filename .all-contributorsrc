@@ -55,7 +55,9 @@
         "content",
         "eventOrganizing",
         "ideas",
-        "projectManagement"
+        "projectManagement",
+        "infra",
+        "maintenance"
       ]
     },
     {
