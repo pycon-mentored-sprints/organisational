@@ -5,12 +5,11 @@
 
 🗂 all things related to the organisation of the PyCon mentored sprints
 
-## About the logo
+## Digital assets
+
 The logo used in this organisation was designed by [Ashley McNamara](https://twitter.com/ashleymcnamara) and it features Bit the Azure Advocates mascot.
 
-## Upcoming meetings and meeting minutes
-
-The minutes for the organising committee can be found in the [./minutes](./minutes) folder.
+The rest of out digital assets can be found at [https://github.com/pycon-mentored-sprints/digital-assets](https://github.com/pycon-mentored-sprints/digital-assets).
 
 ## TODO's
 
@@ -26,7 +25,7 @@ You can also check the progress of the tasks in the repo project board: [https:/
 - Cheuk Ting Ho
 - Valery Briz
 - Katia Lira
-- Zac Hatfield Dodds 
+- Zac Hatfield Dodds
 
 ### The following people have been involved in organising previous sprints
 
@@ -65,4 +64,4 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 ## Licensing
 
-The content of this repo is licensed under the [OSI](https://opensource.org/osd) [BSD-3](https://opensource.org/licenses/BSD-3-Clause) license for the code and the creative assets and written content under a [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license. 
+The content of this repo is licensed under the [OSI](https://opensource.org/osd) [BSD-3](https://opensource.org/licenses/BSD-3-Clause) license for the code and the creative assets and written content under a [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license.
